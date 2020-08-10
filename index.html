@@ -10,9 +10,46 @@
 </head>
 
 <body>
+    <div class="container-fluid navbar navbar-dark bg-dark">
+        <h1 class="text-light">WEATHER DASHBOARD</h1>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="row">
+                    <div class="col">
+                        <h4>Search for a city</h4>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-9">
+                        <input type="text" class="form-control citySearch" placeholder="Ex. Chicago, IL">
+                    </div>
+                    <div class="col-md-3">
+                        <button type="button" class="btn btn-outline-secondary justify-content-center submitSearch" data-search="chicago">Search</button>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col historyList" id="historyList">
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-9">
+                <div class="row">
+                    <div class="card text-white bg-dark" style="width: 95%">
+                        <div class="card-body mainForecast">
+                        </div>
+                    </div>
+                </div>
+                <div class="row extendedForecast">
+                </div>
+            </div>
+        </div>
+    </div>
 
 
     
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
     <script src="script.js"></script>
 </body>
