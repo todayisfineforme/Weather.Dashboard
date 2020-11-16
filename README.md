@@ -1,5 +1,4 @@
-# homework.weather.dashboard.nathan.hall
-# Foobar
+# Weather Dashboard
 
 Foobar is a Python library for dealing with word pluralization.
 
