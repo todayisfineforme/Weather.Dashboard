@@ -1,6 +1,8 @@
 # Weather Dashboard
 
-Html front page weather dashboard that utilizes the openWeather Api to search for and display current and 7 day forecasts.
+Html front page weather dashboard that utilizes the openWeather Api to search for and display current and 7 day forecasts. 
+
+demonstrates usage of css and html
 
 ## Usage
 open index.html in preferred browser
