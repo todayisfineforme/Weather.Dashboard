@@ -2,14 +2,6 @@
 
 Html front page weather dashboard that utilizes the openWeather Api to search for and display current and 7 day forecasts.
 
-
-
-Use the node package manager [npm](https://nodejs.org/en/) to install foobar.
-
-```bash
-npm install foobar
-```
-
 ## Usage
 
 ```node.js
