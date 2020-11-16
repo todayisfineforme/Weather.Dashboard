@@ -4,8 +4,8 @@ Html front page weather dashboard that utilizes the openWeather Api to search fo
 
 ## Usage
 open index.html in preferred browser
-
-https://todayisfineforme.github.io/Weather.Dashboard/
+-or-
+page is deployed at https://todayisfineforme.github.io/Weather.Dashboard/
 
 
 ## Contributing
