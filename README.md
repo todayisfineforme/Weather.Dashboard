@@ -4,7 +4,7 @@ Html front page weather dashboard that utilizes the openWeather Api to search fo
 
 demonstrates usage of html,css, bootstrap, javascript and jquery. 
 
-history of previous searches displays on left hand side.
+history of previous searches displays on left hand side, utilizing localStorage.
 
 ## Usage
 open index.html in preferred browser
