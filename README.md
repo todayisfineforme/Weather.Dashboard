@@ -3,7 +3,9 @@
 Html front page weather dashboard that utilizes the openWeather Api to search for and display current and 7 day forecasts.
 
 ## Usage
+open index.html in preferred browser
 
+https://todayisfineforme.github.io/Weather.Dashboard/
 
 
 ## Contributing
