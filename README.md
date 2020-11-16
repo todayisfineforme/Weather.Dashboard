@@ -1,6 +1,6 @@
 # Weather Dashboard
 
-Foobar is a Python library for dealing with word pluralization.
+Html front page weather dashboard that utilizes the openWeather Api to search for and display current and 7 day forecasts.
 
 ## Installation
 
