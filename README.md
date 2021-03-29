@@ -6,6 +6,8 @@ demonstrates usage of html,css, bootstrap, javascript and jquery.
 
 history of previous searches displays on left hand side, utilizing localStorage.
 
+![weather dashboard](./Assets/dashboardscreenshot.jpg)
+
 ## Usage
 open index.html in preferred browser
 
